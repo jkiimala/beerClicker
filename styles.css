@@ -174,23 +174,24 @@ button:disabled {
   #counter {
     font-size: 2vw;
     margin: 5vh;
+    left: 44%;
   }
 
   #beerButton {
     width: 20%; 
-    top: 32%; 
+    top: 36%; 
     left: 45%; 
   }
 
   #blondeButton {
     width: 30%; 
-    top: 10%; 
+    top: 20%; 
     left: 18%; 
   }
 
   #resetButton {
     width: 30%; 
-    top: 15%;
+    top: 30%;
     left: 65%; 
   }
 
@@ -202,7 +203,7 @@ button:disabled {
 
   #buttonContainer {
     margin: 6vh;
-    left: 30%;
+    left: 28%;
   }
 }
 
