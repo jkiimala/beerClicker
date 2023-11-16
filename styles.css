@@ -140,7 +140,7 @@ button:disabled {
 
   #beerButton {
     width: 17%; 
-    top: 35%; 
+    top: 40%; 
     left: 46%; 
   }
 
@@ -177,11 +177,12 @@ button:disabled {
     font-size: 2vw;
     margin: 5vh;
     left: 44%;
+    top: 60%;
   }
 
   #beerButton {
-    width: 15%; 
-    top: 36%; 
+    width: 13%; 
+    top: 38%; 
     left: 45%; 
   }
 
