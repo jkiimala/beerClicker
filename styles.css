@@ -329,12 +329,13 @@ div .dot {
   #counter {
     font-size: 2vw;
     margin: 5vh;
-    left: 43%;
+    left: 44%;
+    top: 70%;
   }
 
   #beerButton {
-    width: 10%; 
-    top: 40%; 
+    width: 13%; 
+    top: 36%; 
     left: 46%; 
   }
 
