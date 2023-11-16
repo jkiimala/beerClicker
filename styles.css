@@ -128,7 +128,7 @@ button:disabled {
 
 /* Styles for smaller screens */
 
-
+  
 
 @media only screen and (max-width: 1536px) {
   #counter {
@@ -139,7 +139,7 @@ button:disabled {
 
   #beerButton {
     width: 20%; 
-    top: 32%; 
+    top: 35%; 
     left: 46%; 
   }
 
@@ -151,7 +151,7 @@ button:disabled {
 
   #resetButton {
     width: 26%; 
-    top: 10%; 
+    top: 20%; 
     left: 65%; 
   }
 
@@ -169,6 +169,7 @@ button:disabled {
 }
 
 /* Styles for smaller screens */
+
 
 @media only screen and (max-width: 1280px) {
   #counter {
