@@ -177,12 +177,12 @@ button:disabled {
     font-size: 2vw;
     margin: 5vh;
     left: 44%;
-    top: 60%;
+    top: 65%;
   }
 
   #beerButton {
     width: 13%; 
-    top: 38%; 
+    top: 40%; 
     left: 45%; 
   }
 
@@ -370,14 +370,14 @@ div .dot {
 
 @media only screen and (max-width: 768px) {
   #counter {
-    font-size: 3vw;
+    font-size: 2.5vw;
     margin: 5vh;
     left: 40%;
   }
 
   #beerButton {
-    width: 15%; 
-    top: 37%; 
+    width: 12%; 
+    top: 35%; 
     left: 43%; 
   }
 
@@ -403,6 +403,46 @@ div .dot {
     width: 38%;
     margin: 6vh; 
     left: 29%;
+
+  }
+}
+
+
+@media only screen and (max-width: 640px) {
+  #counter {
+    font-size: 3vw;
+    margin: 5vh;
+    left: 40%;
+  }
+
+  #beerButton {
+    width: 12%; 
+    top: 37%; 
+    left: 43%; 
+  }
+
+  #blondeButton {
+    width: 25%; 
+    top: 30%; 
+    left: 15%; 
+  }
+
+  #resetButton {
+    width: 38%; 
+    top: 32%;
+    left: 60%; 
+  }
+
+  p {
+    font-size: 1.5vw;
+    margin: 3vh;
+  }
+
+ 
+  #buttonContainer {
+    width: 25%;
+    margin: 6vh; 
+    left: 35%;
 
   }
 }
