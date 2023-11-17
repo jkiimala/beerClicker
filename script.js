@@ -5,10 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function showOrientationMessage() {
   const orientationMessage = document.getElementById('orientationMessage'); 
-  orientationMessage.style.display = 'block';
-  setTimeout(() => {
-    orientationMessage.style.display = 'none';
-  }, 5000);
+  orientationMessage.style.display = 'block'; 
 }
 
 function isPortrait() {
